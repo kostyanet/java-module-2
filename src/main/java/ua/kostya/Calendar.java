@@ -1,6 +1,6 @@
 package ua.kostya;
 
-import ua.kostya.controller.ConsoleController;
+import ua.kostya.service.ConsoleController;
 
 public class Calendar {
     public static void main(String[] args) {
